@@ -1,0 +1,12 @@
+{
+    "name": "rocketship/oasis-quickbooks-integration",
+    "authors": [
+        {
+            "name": "Alexandru Burca",
+            "email": "sanduburca@gmail.com"
+        }
+    ],
+    "require": {
+        "consolibyte/quickbooks": "^3.6"
+    }
+}
